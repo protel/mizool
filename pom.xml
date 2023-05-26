@@ -10,7 +10,7 @@
     <name>${project.groupId}:${project.artifactId}</name>
     <description>Java library providing miscellaneous classes for enterprise applications</description>
     <url>https://github.com/mizool/mizool</url>
-
+//
     <licenses>
         <license>
             <name>MIT</name>
